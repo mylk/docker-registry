@@ -1,0 +1,7 @@
+auth/*
+certs/*
+config/*
+data/*
+
+!**/.gitkeep
+
