@@ -1,0 +1,10 @@
+version: 0.1
+storage:
+    filesystem:
+http:
+    addr: 0.0.0.0:5000
+    host: https://registry.mylk.wtf
+auth:
+    htpasswd:
+        path: /auth/htpasswd
+        realm: Registry Realm
